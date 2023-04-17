@@ -7,10 +7,16 @@ Ever imagined hacking an OTP of insta account just by username?? Well, it's near
 #Commands for installation:
 
 
-git clone https://github.com/abinongbey/Insta-OTP.git
+`git clone https://github.com/abinongbey/Insta-OTP.git
 cd Insta-OTP
-python Insta-OTP.py
+python Insta-OTP.py`
 
 that's it
 
 enjoy 😊😊
+
+
+
+Updates will be coming soon which will be better and more smarter
+
+@abinongbey 
